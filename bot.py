@@ -2,7 +2,7 @@ import logging
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes, ConversationHandler
 
-BOT_TOKEN = "8944341939:AAFt7QP-TsrKpvPLCeX7QFl3fET2x_gcklQ"
+BOT_TOKEN = "8944341939:AAGqIy6rCoEI64whBJVTLnuu0kKWSPxyBtM"
 ADMIN_ID = 7654914240
 
 UC_PRICES = {
